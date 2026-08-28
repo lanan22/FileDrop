@@ -18,4 +18,7 @@
    python FileDrop_Desktop.py
    ```
 
+### 下载
+
+请访问 [Releases 页面](https://github.com/lanan22/FileDrop/releases) 下载最新版本。
 
